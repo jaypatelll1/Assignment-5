@@ -1,0 +1,513 @@
+.iconnav {
+  height: 30px;
+  background-color: #5858d4;
+}
+
+.iconnav i {
+  color: white;
+}
+
+.icon {
+  margin-left: 30px;
+}
+
+.fab, .fas {
+  margin: 5px;
+}
+
+.call {
+  margin-left: 30px;
+}
+
+.iconnavtext {
+  text-decoration: none;
+  color: beige;
+}
+
+.navbar {
+  background-color: rgb(191, 211, 228);
+}
+
+.logo-custom {
+  margin-left: 80px;
+  height: 25%;
+  width: 25%;
+}
+
+.navtext {
+  list-style: none;
+}
+
+.navtext li {
+  color: rgb(212, 199, 185);
+  border-right: 2px solid rgb(255, 255, 255);
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.navtext li a {
+  font-size: 20px;
+  color: rgb(175, 161, 145);
+}
+
+.navtext li:last-child {
+  border: none;
+}
+
+.btn {
+  margin-right: 80px;
+  border-radius: 25px;
+}
+
+.heroDiv {
+  background-image: url('https://images.squarespace-cdn.com/content/v1/5357d187e4b0d68d3cc7ceea/1602307931280-KVRUNAIN8125I5AEHFMQ/FRANK+Water+Woman+Carrying+Water+Container.JPG');
+  height: 70vh;
+}
+
+.he1 {
+  margin-top: 100px;
+  margin-left: 100px;
+  font-size: 100px;
+}
+
+.he2 {
+  margin-left: 200px;
+  font-size: 100px;
+}
+
+.hero-heading {
+  color: #ffffff88;
+  font-size: 400px;
+}
+
+.makebtn {
+  margin-top: -700px;
+  margin-left: 480px;
+}
+
+.banner-1-custom {
+  background-color: rgb(36, 60, 139);
+  height: 300px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 0 150px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner-1-custom h1 {
+  text-align: center;
+  font-size: 50px;
+  color: aliceblue;
+}
+
+.banner-1-custom p {
+  width: 800px;
+  font-size: 20px;
+  text-align: center;
+  color: aliceblue;
+}
+
+.circle-div-container {
+  position: relative;
+  height: 300px;
+  width: 809px;
+}
+
+.circular-div {
+  height: 200px;
+  width: 200px;
+  color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 50%;
+  position: absolute;
+  border: 1px solid #000;
+  top: 20%;
+}
+
+.circular-div span {
+  text-align: center;
+}
+
+.circular-div.cr1 {
+  left: 21%;
+}
+
+.circular-div.cr2 {
+  background-color: blue;
+  left: 43%;
+  color: #fff;
+  border: none;
+  z-index: 2;
+}
+
+.circular-div.cr3 {
+  left: 64%;
+}
+
+.donate-info-btn-con .btn {
+  border-radius: 30px;
+  height: 30px;
+  width: 120px;
+  font-size: 14px;
+  margin: 0 10px;
+}
+
+.donate-info-btn-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.secondlogo {
+  height: 50px;
+  width: 50px;
+}
+
+.addheading {
+  text-align: center;
+}
+
+.addheading span {
+  color: #45ebcf;
+}
+
+.hr {
+  width: 6%;
+  border-top: 3px solid #45ebcf;
+  margin: 3px 0;
+}
+
+.hr2 {
+  width: 20%;
+  border-top: 3px solid #ffffff;
+  margin: 3px 0;
+}
+
+.content {
+  color: #fff;
+}
+
+.mission {
+  background-color: aqua;
+}
+
+.custom-align {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.addimg {
+  width: 500px;
+  height: 300px;
+}
+
+*
+/*/*/
+
+.money-para {
+  font-size: 22px;
+}
+
+.money-list {
+  color: #0ed8f3;
+}
+
+.custom-money-btn {
+  background-color: #57d4ce;
+  border-radius: 18px;
+  color: white;
+  padding: 7px 20px;
+  margin: 7px 0px;
+}
+
+.custom-money {
+  background-color: rgb(233, 227, 227);
+}
+
+.money-container {
+  height: 500px;
+  display: flex;
+  flex-direction: column-reverse;
+  padding-bottom: 80px;
+  padding-left: 30px;
+  position: relative;
+}
+
+.money {
+  width: 45px;
+  background-color: #00cdf1;
+  position: relative;
+}
+
+.span-per {
+  margin-left: 8px;
+  color: #00cdf1;
+}
+
+.spano {
+  position: absolute;
+  transform: rotate(270deg);
+  width: 100px;
+  bottom: 50px;
+  left: -28px;
+  color: white;
+  font-size: 16px;
+}
+
+.add2 {
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 50vh;
+  background-color: #3bc9db;
+  background-blend-mode: screen;
+}
+
+.add2Content {
+  margin-top: 20%;
+  font-weight: 300;
+  color: #cfbebe;
+}
+
+.lBtn {
+  margin: 5% 0;
+  display: flex;
+  justify-content: center;
+}
+
+.lBtn button {
+  border-radius: 18px;
+  padding: 4px 20px;
+  font-size: 20px;
+  margin-right: 150px;
+}
+
+.iconsLogo {
+  font-size: 100px;
+  color: #026475;
+  margin-top: 20%;
+}
+
+.iconsLogo i {
+  margin-left: 120px;
+}
+
+.iconsLogo p {
+  font-size: 30px;
+  text-align: center;
+  margin-left: 110px;
+}
+
+.chart-para {
+  font-size: 22px;
+}
+
+.bold {
+  font-weight: 400;
+  font-style: italic;
+}
+
+.bolder {
+  font-weight: 500;
+  font-style: italic;
+}
+
+.customSlider {
+  margin-top: 4%;
+}
+
+.line5 {
+  border-top: 3px solid#19bfd4;
+  width: 8%;
+  margin: 1% 0% 1.5% 1.5%;
+}
+
+.formDiv {
+  position: relative;
+  margin-left: 10%;
+}
+
+.formImg {
+  position: absolute;
+  width: 30%;
+  right: 15%;
+  top: 30px;
+}
+
+.main-event {
+  background-image: url("https://cw-contentful-assets.imgix.net/https%3A%2F%2Fimages.ctfassets.net%2Fwvozpes63uc8%2F3r2HxoLc7yulCiFl5ugjRg%2F0d4c05c22e877bca637aa735ea8bdb32%2Fcharity-water-social-preview.jpeg?ixlib=rails-4.1.0&auto=format&w=1200&s=c9f282c0a5467517141f14b2f8e69b58");
+  background-size: cover;
+  height: 85vh;
+  width: 80%;
+  margin: auto;
+  background-blend-mode: screen;
+  background-color: #726f6f;
+}
+
+.eventCard {
+  width: 100%;
+  height: 40vh;
+  margin: 40% 30%;
+  background-color: rgba(22, 22, 22, 0.4);
+  padding: 20px;
+}
+
+.spanEvent {
+  font-weight: 600;
+}
+
+.spanE {
+  margin: 2% 1%;
+  width: 10%;
+  border-top: 3px solid #f3670a;
+}
+
+.upcomingEvent {
+  margin: 100px 10px 0px 0px;
+  background-color: rgba(255, 255, 255, 0.4);
+  width: 70vh;
+  height: 55vh;
+}
+
+.event-para {
+  padding-right: 30px;
+}
+
+.calender {
+  background-color: rgba(31, 30, 30, 0.2);
+  width: 70px;
+  height: 70px;
+  color: white;
+  padding: 5px 0px;
+}
+
+.calender .digit {
+  padding: 6px 22px;
+}
+
+.month {
+  padding: 5px 16px;
+}
+
+.cal-head p {
+  font-size: 12px;
+}
+
+.foot {
+  padding-bottom: 8px;
+  border-bottom: 1px solid#00eeff;
+}
+
+.logot {
+  font-size: 20px;
+  font-weight: 600;
+  color: #00eeff;
+}
+
+.footImg {
+  width: 100px;
+}
+
+.mt {
+  margin-top: 8%;
+}
+
+.card-img-top {
+  height: 250px;
+}
+
+.card-title {
+  font-size: 15px;
+}
+
+.card-text {
+  font-size: 12px;
+  padding: 5px;
+}
+
+.avatars {
+  max-width: 100px;
+  padding: 0px 0px;
+}
+
+.line4 {
+  border-top: 4px solid #00ffff;
+  height: 2px;
+  width: 50px;
+  margin: 0 auto;
+}
+
+.volun {
+  position: relative;
+  margin: 30px 0px 10px 0px;
+  padding: 60px 170px;
+  text-align: justify;
+  font-style: italic;
+  background-color: #d1f0d1;
+}
+
+.volun .quotes {
+  position: absolute;
+  left: 48.1%;
+  top: -20px;
+  background-color: #2e884c;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.bold {
+  font-weight: 400;
+  font-style: italic;
+}
+
+.bolder {
+  font-weight: 500;
+  font-style: italic;
+}
+
+.customSlider {
+  margin-top: 4%;
+}
+
+.line5 {
+  border-top: 3px solid#08d1d1;
+  width: 8%;
+  margin: 1% 0% 1.5% 1.5%;
+}
+
+.formDiv {
+  position: relative;
+  margin-left: 10%;
+}
+
+.formImg {
+  position: absolute;
+  width: 30%;
+  right: 15%;
+  top: 30px;
+}
+
+.avatar img {
+  margin: 0 auto;
+}
+
+.add {
+  margin-top: 10px;
+}
+
+.custom-money {
+  margin-top: 50px;
+}
+
+.sliders {
+  margin-top: 50px;
+}
