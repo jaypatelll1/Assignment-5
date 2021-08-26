@@ -20,9 +20,9 @@ export default function index() {
 
                 <div className="col-2 d-flex">
                             <i className="fas fa-user"></i>
-                    &nbsp;  <a className="iconnavtext">Sign up</a>
+                    &nbsp;  <a href="/" className="iconnavtext">Sign up</a>
                     &nbsp;  <i className="fas fa-lock"></i>
-                    &nbsp;  <a className="iconnavtext">Login in</a>
+                    &nbsp;  <a href="/" className="iconnavtext">Login in</a>
                 </div>
             </div>
         </div>

@@ -5,7 +5,7 @@ export default function index() {
         <div>
             <div>
                 <div className="secondDiv d-flex justify-content-center mt-4 add">
-                    <img className="secondlogo img-fluid" src="https://cdn.sanity.io/images/92ui5egz/production/f27e1e831b6433649df3d6556b92f2b1f519dee3-300x300.svg?rect=0,65,300,169&w=800&h=450&auto=format" />
+                    <img className="secondlogo img-fluid" src="https://cdn.sanity.io/images/92ui5egz/production/f27e1e831b6433649df3d6556b92f2b1f519dee3-300x300.svg?rect=0,65,300,169&w=800&h=450&auto=format" alt="" />
                 </div>
 
                 <div className="addheading">

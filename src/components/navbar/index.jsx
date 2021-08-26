@@ -5,7 +5,7 @@ export default function index() {
         <div>
              <div className="row navbar">
             <div className="col-2 d-flex align-items-center">
-                <img className="img-fluid logo-custom" src="https://cdn.sanity.io/images/92ui5egz/production/f27e1e831b6433649df3d6556b92f2b1f519dee3-300x300.svg?rect=0,65,300,169&w=800&h=450&auto=format" />
+                <img className="img-fluid logo-custom" src="https://cdn.sanity.io/images/92ui5egz/production/f27e1e831b6433649df3d6556b92f2b1f519dee3-300x300.svg?rect=0,65,300,169&w=800&h=450&auto=format" alt=""/>
             </div>
             <div className="col-8">
                 <ul class="navtext d-flex justify-content-center h-100 align-items-center customUL">
